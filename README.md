@@ -1,5 +1,3 @@
-# 📝 **COPY THIS ENTIRE TEXT FOR README.md**
-
 ```markdown
 # 🌾 KISAN SAATHI PRO
 
